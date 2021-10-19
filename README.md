@@ -6,11 +6,11 @@
 <!--![](https://visitor-badge.glitch.me/badge?page_id=kdutrajano.kdutrajano) !-->
   
 #### **I'm Carlos Trajano, 33**
->Mechanical Engineer &nbsp;&nbsp;&nbsp;&nbsp;| Bachelor<br/>
->Business Management&nbsp; | MBA<br/>
+>Mechanical Engineer &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;Bachelor<br/>
+>Business Management&nbsp; | &nbsp;&nbsp;MBA<br/>
 >Data Scientist
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  | Specialist<br/>
+  | &nbsp;&nbsp;Specialist<br/>
 
 <!-- --------------------------------------------------------------------------------------------------- -->
 <!--                                               PROFILE LINKS                                         -->
