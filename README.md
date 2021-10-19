@@ -1,11 +1,11 @@
 <!-- --------------------------------------------------------------------------------------------------- -->
 <!--                                                WELCOME                                              -->
 <!-- --------------------------------------------------------------------------------------------------- -->
-### <p align=center> Hello Data lovers 💻📊 __< / >__
+#### <p align=center> Hello Data lovers 💻📊 __< / >__
 
 <!--![](https://visitor-badge.glitch.me/badge?page_id=kdutrajano.kdutrajano) !-->
   
-#### **I'm Carlos Trajano, 33**
+##### **I'm Carlos Trajano, 33**
 - Bachelor | Mechanical Engineering  🔧
 - MBA | Business Management  📚📈
 - Data Science  💻📊
@@ -13,7 +13,7 @@
 <!-- --------------------------------------------------------------------------------------------------- -->
 <!--                                               PROFILE LINKS                                         -->
 <!-- --------------------------------------------------------------------------------------------------- -->
-#### <p align=center> **Profile Links**
+##### <p align=center> **Profile Links**
 <p align=center>
 <a href = "mailto:carlosedutrajano@gmail.com"><img height="30"
 src='https://www.gstatic.com/images/branding/product/1x/hh_gmail_64dp.png' ></a> &nbsp;&nbsp;
@@ -30,16 +30,16 @@ src='https://www.kaggle.com/static/images/site-logo.png'></a>
   
 <div align="center">
   <a href="https://github.com/kdutrajano">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=kdutrajano&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=kdutrajano&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdutrajano&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdutrajano&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 <!-- --------------------------------------------------------------------------------------------------- -->
 <!--                                               LANGUAGE & IDE                                        -->
 <!-- --------------------------------------------------------------------------------------------------- -->
   
-#### <p align=center> **Language & IDE**
+##### <p align=center> **Language & IDE**
 <p align=center>
   <img align="center" alt="kdu_Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="kdu_jupyter" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
@@ -50,7 +50,7 @@ src='https://www.kaggle.com/static/images/site-logo.png'></a>
 <!--                                         LIBRARY & FRAMEWORKS                                        -->
 <!-- --------------------------------------------------------------------------------------------------- -->  
   
-#### <p align=center> **Libraries & Frameworks**
+##### <p align=center> **Libraries & Frameworks**
 <p align=center>
 <img align="center" height="40" src='https://numpy.org/images/logos/numpy.svg'>&nbsp;&nbsp;
 <img align="center" height="40" src='https://pandas.pydata.org/static/img/pandas_white.svg'>&nbsp;&nbsp;
@@ -67,7 +67,7 @@ src='https://www.kaggle.com/static/images/site-logo.png'></a>
 <!--                                         TOOLS AND SOFTWARES                                         -->
 <!-- --------------------------------------------------------------------------------------------------- -->  
 
-#### <p align=center> **Tools & Softwares**
+##### <p align=center> **Tools & Softwares**
 <div align="center">
 <img align="center" height="40" src='https://img.icons8.com/color/144/000000/solidworks.png'>&nbsp;&nbsp;&nbsp;
 <img align="center" height="30" src='https://taiwebs.com/upload/icons/cimatron220-220.png'>&nbsp;&nbsp;&nbsp;
