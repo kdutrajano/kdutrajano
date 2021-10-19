@@ -8,7 +8,7 @@
 #### **I'm Carlos Trajano, 33**
 >Mechanical Engineer | Bachelor<br/>
 >Business Management | MBA<br/>
->Data Science        | Specialist<br/>
+>Data Scientist      | Specialist<br/>
 
 <!-- --------------------------------------------------------------------------------------------------- -->
 <!--                                               PROFILE LINKS                                         -->
