@@ -5,7 +5,7 @@
 
 <!--![](https://visitor-badge.glitch.me/badge?page_id=kdutrajano.kdutrajano) !-->
   
-##### **I'm Carlos Trajano, 33**
+#### **I'm Carlos Trajano, 33**
 - Bachelor | Mechanical Engineering  🔧
 - MBA | Business Management  📚📈
 - Data Science  💻📊
