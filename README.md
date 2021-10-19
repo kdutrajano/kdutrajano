@@ -41,8 +41,8 @@ src='https://www.kaggle.com/static/images/site-logo.png'></a>
   
 ##### <p align=center> **Language & IDE**
 <p align=center>
-  <img align="center" alt="kdu_Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="kdu_jupyter" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="kdu_Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="kdu_jupyter" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
 <br>
 </div>
 
@@ -52,14 +52,14 @@ src='https://www.kaggle.com/static/images/site-logo.png'></a>
   
 ##### <p align=center> **Libraries & Frameworks**
 <p align=center>
-<img align="center" height="40" src='https://numpy.org/images/logos/numpy.svg'>&nbsp;&nbsp;
-<img align="center" height="40" src='https://pandas.pydata.org/static/img/pandas_white.svg'>&nbsp;&nbsp;
-<img align="center" height="30" src='https://matplotlib.org/_static/logo2_compressed.svg'>&nbsp;&nbsp;
-<img align="center" height="40" src='https://seaborn.pydata.org/_static/logo-wide-lightbg.svg'>&nbsp;&nbsp;
-<img align="center" height="40" src='https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png'>&nbsp;&nbsp;
-<img align="center" height="60" src='https://www.scipy.org/_static/images/sympy_logo.png'>&nbsp;&nbsp;
-<img align="center" height="60" src='https://funthon.files.wordpress.com/2017/05/bs.png'>&nbsp;&nbsp;
-<img align="center" height="40" src='https://img.portalgsti.com.br/OcsHhsi42lFfKiWbY9GVTDliHi8=/200x200/https://www.portalgsti.com.br/media/uploads/community/2016/04/25/sqlite.png'>&nbsp;&nbsp;
+<img align="center" height="30" src='https://numpy.org/images/logos/numpy.svg'>&nbsp;&nbsp;
+<img align="center" height="30" src='https://pandas.pydata.org/static/img/pandas_white.svg'>&nbsp;&nbsp;
+<img align="center" height="20" src='https://matplotlib.org/_static/logo2_compressed.svg'>&nbsp;&nbsp;
+<img align="center" height="30" src='https://seaborn.pydata.org/_static/logo-wide-lightbg.svg'>&nbsp;&nbsp;
+<img align="center" height="30" src='https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png'>&nbsp;&nbsp;
+<img align="center" height="50" src='https://www.scipy.org/_static/images/sympy_logo.png'>&nbsp;&nbsp;
+<img align="center" height="50" src='https://funthon.files.wordpress.com/2017/05/bs.png'>&nbsp;&nbsp;
+<img align="center" height="30" src='https://img.portalgsti.com.br/OcsHhsi42lFfKiWbY9GVTDliHi8=/200x200/https://www.portalgsti.com.br/media/uploads/community/2016/04/25/sqlite.png'>&nbsp;&nbsp;
 
 <br>
 
