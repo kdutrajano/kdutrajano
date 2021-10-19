@@ -1,9 +1,8 @@
 <!-- --------------------------------------------------------------------------------------------------- -->
 <!--                                                WELCOME                                              -->
 <!-- --------------------------------------------------------------------------------------------------- -->
+![](https://visitor-badge.glitch.me/badge?page_id=kdutrajano.kdutrajano)
 ### <p align=center> Hello Data lovers 💻📊 __< / >__
-
-<!--![](https://visitor-badge.glitch.me/badge?page_id=kdutrajano.kdutrajano) !-->
   
 #### **I'm Carlos Trajano, 33**
 >Mechanical Engineer &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;Bachelor<br/>
@@ -34,8 +33,9 @@ src='https://www.kaggle.com/static/images/site-logo.png'></a>
   <a href="https://github.com/kdutrajano">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=kdutrajano&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdutrajano&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdutrajano&show_icons=true&locale=en&layout=compact&theme=github_dark"/>
 </div>
+
   
 <!-- --------------------------------------------------------------------------------------------------- -->
 <!--                                               LANGUAGE & IDE                                        -->
