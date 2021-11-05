@@ -54,7 +54,7 @@ src='https://www.kaggle.com/static/images/site-logo.png'></a>
   
 ##### <p align=center> **Libraries & Frameworks**
 <p align=center>
-<img align="center" height="30" src='https://numpy.org/images/logos/numpy.svg'>&nbsp;&nbsp;
+<img align="center" height="30" src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANumPy_logo_2020.svg&psig=AOvVaw2878-70keNFRTGKYSWwVD-&ust=1636201272116000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiY7u6agfQCFQAAAAAdAAAAABAD'>&nbsp;&nbsp;
 <img align="center" height="30" src='https://pandas.pydata.org/static/img/pandas_white.svg'>&nbsp;&nbsp;
 <img align="center" height="20" src='https://matplotlib.org/_static/logo2_compressed.svg'>&nbsp;&nbsp;
 <img align="center" height="30" src='https://seaborn.pydata.org/_static/logo-wide-lightbg.svg'>&nbsp;&nbsp;
