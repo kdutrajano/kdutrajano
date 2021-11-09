@@ -64,7 +64,7 @@ src='https://www.kaggle.com/static/images/site-logo.png'></a>
   
   
 <marquee  behavior="scroll" direction="left">
-  <img src="https://pandas.pydata.org/static/img/pandas_white.svg">
+  <img  height="30" src="https://pandas.pydata.org/static/img/pandas_white.svg">
     </marquee>
 
 <p align=center>
