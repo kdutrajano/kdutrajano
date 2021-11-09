@@ -54,18 +54,6 @@ src='https://www.kaggle.com/static/images/site-logo.png'></a>
   
 ##### <p align=center> **Libraries & Frameworks**
 
-<!--
-  <marquee  behavior="scroll" direction="left">        
-          <img src=
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png"
-          alt="GeeksforGeeks logo"> 
-    </marquee>
--->
-  
-  
-<marquee  behavior="scroll" direction="left">
-  <img  height="30" src="https://pandas.pydata.org/static/img/pandas_white.svg">
-    </marquee>
 
 <p align=center>
 <img align="center" height="30" src='https://user-images.githubusercontent.com/50221806/86498222-c4c12800-bd39-11ea-9709-160ad4ba63e1.png'>&nbsp;&nbsp;
