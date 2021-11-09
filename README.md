@@ -63,7 +63,7 @@ src='https://www.kaggle.com/static/images/site-logo.png'></a>
 -->
   
 <HTML>        
-<MARQUEE><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="GeeksforGeeks logo">
+<MARQUEE><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="GeeksforGeeks logo"><MARQUEE>
 </HTML> 
 
 <p align=center>
