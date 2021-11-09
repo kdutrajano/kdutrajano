@@ -64,7 +64,7 @@ src='https://www.kaggle.com/static/images/site-logo.png'></a>
   
   
 <marquee  behavior="scroll" direction="left">
-  <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png">
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg">
     </marquee>
 
 <p align=center>
