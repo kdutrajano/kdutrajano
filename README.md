@@ -45,6 +45,7 @@ src='https://www.kaggle.com/static/images/site-logo.png'></a>
 <p align=center>
   <img align="center" alt="kdu_Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="kdu_jupyter" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align ="center" alt="kdu_vscode" height="50" src="https://code.visualstudio.com/assets/branding/app-icon.png">
 <br>
 </div>
 
