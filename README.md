@@ -22,7 +22,9 @@ src='https://www.gstatic.com/images/branding/product/1x/hh_gmail_64dp.png' ></a>
 src='https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg'></a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/kdu_trajano" target="_blank"><img height="30"
 src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png'></a> &nbsp;&nbsp;
-<a href="https://www.kaggle.com/kdutrajano" target="_blank"><img height="25"
+
+<!--  
+  <a href="https://www.kaggle.com/kdutrajano" target="_blank"><img height="25"
 src='https://www.kaggle.com/static/images/site-logo.png'></a>
 
 <!-- --------------------------------------------------------------------------------------------------- -->
@@ -40,7 +42,7 @@ src='https://www.kaggle.com/static/images/site-logo.png'></a>
 <!-- --------------------------------------------------------------------------------------------------- -->
 <!--                                               LANGUAGE & IDE                                        -->
 <!-- --------------------------------------------------------------------------------------------------- -->
-  
+  <!--
 ##### <p align=center> **Language & IDE**
 <p align=center>
   <img align="center" alt="kdu_Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
