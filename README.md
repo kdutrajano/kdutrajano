@@ -4,7 +4,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=kdutrajano.kdutrajano)
 ### <p align=center> Hello Data lovers 💻📊 __< / >__
   
-#### **I'm Carlos Trajano, 33**
+#### **I'm Carlos Trajano, 34**
 >Mechanical Engineer &nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;Bachelor<br/>
 >Business Management&nbsp; | &nbsp;&nbsp;MBA<br/>
 >Data Scientist
@@ -52,7 +52,7 @@ src='https://www.kaggle.com/static/images/site-logo.png'></a>
 <!-- --------------------------------------------------------------------------------------------------- -->
 <!--                                         LIBRARY & FRAMEWORKS                                        -->
 <!-- --------------------------------------------------------------------------------------------------- -->  
-  
+<!-- 
 ##### <p align=center> **Libraries & Frameworks**
 
 
@@ -71,7 +71,7 @@ src='https://www.kaggle.com/static/images/site-logo.png'></a>
 <!-- --------------------------------------------------------------------------------------------------- -->
 <!--                                         TOOLS AND SOFTWARES                                         -->
 <!-- --------------------------------------------------------------------------------------------------- -->  
-
+<!--
 ##### <p align=center> **Tools & Softwares**
 <div align="center">
 <img align="center" height="40" src='https://img.icons8.com/color/144/000000/solidworks.png'>&nbsp;&nbsp;&nbsp;
